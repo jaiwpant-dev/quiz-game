@@ -4,7 +4,7 @@ print("Quiz Game")
 q1=" Q1. who is the pm of india :"
 print(q1)
 a1=input("")
-a="modi"
+a="Narendra modi"
 if a1==a:
 	print(" (correct)")
 	score+=1
